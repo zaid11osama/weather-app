@@ -1,0 +1,19 @@
+{
+  "Amman": "عمان ",
+  "min": " الصغرى",
+  "max": "الكبرى",
+  "scattered clouds": "سحب متفرقة",
+  "clear sky": "سماء صافية",
+  "few clouds": "بعض الغيوم",
+  "broken clouds": "سحب متجزئة",
+  "shower rain": "أمطار غزيرة",
+  "rain": "ماطر",
+  "thunderstorm": "عاصفة رعدية",
+  "snow": "ثلوج",
+  "mist": "ضباب",
+  "haze": "سحب",
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above."
+  }
+}
